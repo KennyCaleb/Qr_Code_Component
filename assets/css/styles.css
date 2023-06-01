@@ -20,7 +20,7 @@ body{
 #app{
     width: 100vw;
     min-height: 100vh;
-    background: var(--grayish_blue);
+    background: var(--light_gray);
 
     display: flex;
     justify-content: center;
